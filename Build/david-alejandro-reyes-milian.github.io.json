@@ -1,0 +1,16 @@
+{
+"companyName": "jumit",
+"productName": "Rolling Adventure",
+"productVersion": "1.6 Beta",
+"dataUrl": "david-alejandro-reyes-milian.github.io.data.unityweb",
+"wasmCodeUrl": "david-alejandro-reyes-milian.github.io.wasm.code.unityweb",
+"wasmFrameworkUrl": "david-alejandro-reyes-milian.github.io.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.16f1"
+}
