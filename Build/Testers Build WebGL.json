@@ -1,0 +1,16 @@
+{
+"companyName": "jumit",
+"productName": "Rolling Adventure",
+"productVersion": "1.6 Beta",
+"dataUrl": "Testers Build WebGL.data.unityweb",
+"wasmCodeUrl": "Testers Build WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Testers Build WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.21f1"
+}
